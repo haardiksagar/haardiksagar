@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/haardiksagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/haardiksagar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/haardik-s-sagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haardik-s-sagar" height="30" width="40" /></a>
-<a href="https://instagram.com/@https://www.instagram.com/haardiik_sagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@https://www.instagram.com/haardiik_sagar/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/haardiik_sagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/haardiik_sagar/" height="30" width="40" /></a>
+<a href="https://x.com/haardiksagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/haardiksagar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/haardik-s-sagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haardik-s-sagar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/haardiik_sagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@https://www.instagram.com/haardiik_sagar/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/haardiik_sagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/haardiik_sagar/" height="30" width="40" /></a>
 <a href="https://www.threads.net/@haardiik_sagar" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/haardiksagar/haardiksagar/bc4fd7786cb3421b36cadb6ccb62225545a3c2c7/threads.svg" alt="Threads Logo" height="30" width="40" />
 </a>
