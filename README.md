@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **how to build a startup and scale it**
 
-- 📫 How to reach me [email](haardiiksagar@gmail.com)
+- 📫 How to reach me **haardiiksagar@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Klb60NmGGTDUXIJKEXLMjZTeNu4DTtik/view?usp=sharing)
 
