@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **RAG**
 
-- 👯 I’m looking to collaborate on **linkedIn**
-
 - 🤝 I’m looking for help with **how to build a startup and scale it**
 
 - 📫 How to reach me **haardiiksagar@gmail.com**
