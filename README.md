@@ -17,7 +17,7 @@
 <a href="https://instagram.com/@https://www.instagram.com/haardiik_sagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@https://www.instagram.com/haardiik_sagar/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/haardiik_sagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/haardiik_sagar/" height="30" width="40" /></a>
 <a href="https://www.threads.net/@haardiik_sagar" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Threads_%28app%29_logo.svg" alt="Threads Logo" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/haardiksagar/haardiksagar/bc4fd7786cb3421b36cadb6ccb62225545a3c2c7/threads.svg" alt="Threads Logo" height="30" width="40" />
 </a>
 </p>
 
