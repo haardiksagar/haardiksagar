@@ -25,7 +25,7 @@
 
 <img alt="" width="400" src="https://raw.githubusercontent.com/haardiksagar/haardiksagar/2f46ecba1d6fb6521d69bc66416548fa3817aa48/fortune%20plugin.svg" alt=""></img>
 <p>
-  <img align="left" src="https://github.com/user-attachments/assets/3c7d11f2-0049-4bdb-a7a6-c751c4f6f749" alt="megumin-and-kazuma-sato-mzoofymm67wm9gxv" width="430" height="246"/>
+  <img align="left" src="https://github.com/user-attachments/assets/3c7d11f2-0049-4bdb-a7a6-c751c4f6f749" alt="megumin-and-kazuma-sato-mzoofymm67wm9gxv" width="400" height="246"/>
   <img align="right" src="https://raw.githubusercontent.com/haardiksagar/haardiksagar/f1f77134603e28a6b70919b966b52bb6ef31a9b8/I%20never%20said%20I%20could%20code%20it%20in%20one%20day.svg" alt="I never said I could code it in one day" width="400" height="246" />
 </p>
 </p>
