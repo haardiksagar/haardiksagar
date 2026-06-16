@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Haardik S Sagar</h1>
 <h3 align="center">Backend Engineer</h3>
 
-- 🌱 I’m currently learning **RAG**
+- 🌱 I’m currently learning: **RAG**
 
-- 🤝 I’m looking for help with **how to build a startup and scale it**
+- 🤝 I’m looking for help with: **how to build a startup and scale it**
 
-- 📫 How to reach me **haardiiksagar@gmail.com**
+- 📫 How to reach me: **haardiiksagar@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b1ZDlmIaaZ3LrN5vnP8X5GyZi3sPHB3P/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1b1ZDlmIaaZ3LrN5vnP8X5GyZi3sPHB3P/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
