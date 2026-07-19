@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haardik S Sagar</h1>
 <h3 align="center">Backend Engineer</h3>
 
-- 🌱 I’m currently learning: **System Design**
+- 🌱 I’m currently learning: **System Desig**
 
 - 🤝 I’m looking for help with: **how to build something and scale it**
 
