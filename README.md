@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **haardiiksagar@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1b1ZDlmIaaZ3LrN5vnP8X5GyZi3sPHB3P/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1I5Fql1VaUekuwHc1zY9ZY9kKuqdg4jQG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
