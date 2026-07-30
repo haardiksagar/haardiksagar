@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haardik S Sagar</h1>
 <h3 align="center">Seeking Junior Backend Engineer and software intern opportunities </h3>
 
-- 🌱 I’m currently learning: **System Designn**
+- 🌱 I’m currently learning: **System Design**
 
 - 🤝 I’m looking for help with: **how to build something and scale it**
 
