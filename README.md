@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning: **System Design**
 
-- 🤝 I’m looking for help with: **how to build something and scale it**
+- 🤝 I’m looking for help with: **how to build something and scale **
 
 - 📫 How to reach me: **haardiiksagar@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1uqLAIRm846u4Rcc2GbMOnlyL8ukrpCt6/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
