@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **System Design**
 
-- 🤝 I’m looking for help with: **how to build something and scale i**
+- 🤝 I’m looking for help with: **how to build something and scale it**
 
 - 📫 How to reach me: **haardiiksagar@gmail.com**
 
